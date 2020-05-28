@@ -1,0 +1,41 @@
+PODS:
+  - arcore_flutter_plugin (0.0.1):
+    - Flutter
+  - arkit_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - keyboard_visibility (0.5.0):
+    - Flutter
+    - Reachability
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - arcore_flutter_plugin (from `.symlinks/plugins/arcore_flutter_plugin/ios`)
+  - arkit_plugin (from `.symlinks/plugins/arkit_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - keyboard_visibility (from `.symlinks/plugins/keyboard_visibility/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Reachability
+
+EXTERNAL SOURCES:
+  arcore_flutter_plugin:
+    :path: ".symlinks/plugins/arcore_flutter_plugin/ios"
+  arkit_plugin:
+    :path: ".symlinks/plugins/arkit_plugin/ios"
+  Flutter:
+    :path: Flutter
+  keyboard_visibility:
+    :path: ".symlinks/plugins/keyboard_visibility/ios"
+
+SPEC CHECKSUMS:
+  arcore_flutter_plugin: 59886964cab86408a05fd43442ca780a45ccdb87
+  arkit_plugin: 3e42571e8be84adabb8a178bd51c22fa981e16bd
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  keyboard_visibility: 96a24de806fe6823c3ad956c01ba2ec6d056616f
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: eeaace7f9105b88ae361b672b7b88f07da6f9ad0
+
+COCOAPODS: 1.8.4
